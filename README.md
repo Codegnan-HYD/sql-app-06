@@ -6,9 +6,9 @@ A SQL application to practice database designing using Entity Relationship Diagr
 * Create an ER Diagram using the Conceptual Data Model.
 * Create an ER Diagram using the Logical Data Model.
 * Create an ER Diagram using the Physical Data Model.
-#### Data Set
+#### Data Set:
 * Student Name, Student Mobile Number, Student Email Address, Course Name and Course Duration.
-#### Rules
+#### Rules:
 * A student might enroll to either one or multiple courses.
 * A student might not enroll to any course.
 * A course might have one or multiple students enrolled.
